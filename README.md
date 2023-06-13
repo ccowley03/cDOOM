@@ -20,7 +20,8 @@
 
 
 ## Brief Description
-
+A side project which involves making life just that little bit more difficult by choosing to recreate DOOM in C.
+If you know anything about the complexity of DOOM from a programming standpoint, you can see this won't be easy..
 
 ## Project Collaborators
 
