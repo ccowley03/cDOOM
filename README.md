@@ -27,6 +27,6 @@ If you know anything about the complexity of DOOM from a programming standpoint,
 
 **Conor Cowley** (Developer)
 
-- <https://projects.cs.nott.ac.uk/psycc4/>
+- <https://github.com/ccowley03>
 
 
