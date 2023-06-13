@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://example.com/">
-    <img src="assets/DOOM.jpg" alt="Logo" width=72 height=72>
+    <img src="assets/DOOM.jpg" alt="Logo" width=200 height=200>
   </a>
 
   <h3 align="center">CDOOM</h3>
